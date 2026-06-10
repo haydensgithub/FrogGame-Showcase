@@ -82,4 +82,4 @@ The full source code for this project will remain private since the team may one
 ## Source Availability
 The complete source code and raw asset files are not present in this repository, since development may one day continue in the future.
 
-This public repository is iuntended as a portfolio showcase containing media, documentation, and selected source excerpts from my work on the project.
+This public repository is intended as a portfolio showcase containing media, documentation, and selected source excerpts from my work on the project.
