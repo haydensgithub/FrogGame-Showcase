@@ -1,9 +1,9 @@
 # FrogGame Showcase
 
 ## Project Overview
-The following showcase is one of a polished 3D UE4 action game, designed around long-term development. It was developed over six months by a three-person team.
+This repository showcases a polished 3D UE4 action game developed over six months by a three-person team.
 I served as the project head and lead programmer, handling gameplay code, save systems, sound and animation, and the behavior of anything within the game itself; my team-members handled the ideating and creation process of the 3D models.
-Development was suspended after the team graduated college and began to move forward in life, but some final strides were made to bring the project to a satisfactory stopping point.
+Development was suspended after the team graduated and moved on to new commitments, but some final strides were made to bring the project to a satisfactory stopping point.
 
 ## My Role
 My responsibilities included:
@@ -17,8 +17,9 @@ My responsibilities included:
 - Gameplay "wrappers" (menus and such)
 
 Other team contributors:
-3D modeling and texturing:
-Concept art: 
+3D modeling and texturing: [Name]
+
+Concept art: [Name]
 
 ## Project Highlights
 - Spearheaded a three-person team for six months of independent development
@@ -46,6 +47,14 @@ This showcase emphasizes the systems that I personally worked on:
 
 ## Code Samples
 The full source code for this project will remain private since the team may one day return to development. However, I have selected isolated code samples for the purpose of this repository to demonstrate my programming style and system design.
+
+| Sample | Focus |
+|---|---|
+| [Wall Interaction Detection](code-samples/player-movement/wall-interaction-detection/) | Trace-based movement actions, ledge detection, wall climbs, wall scrapes, and wall runs |
+| [Input Buffering](code-samples/player-controller/input-buffering/) | Game-feel-oriented input buffering for movement and combat actions |
+| [Boss Melee Selection](code-samples/enemy-ai/boss-melee-selection/) | Spatial enemy attack selection based on player position |
+| [Minion Spawn Selection](code-samples/enemy-ai/minion-spawn-selection/) | Valid ground detection and safe enemy spawning |
+| [Attack Variety Selection](code-samples/enemy-ai/attack-variety-selection/) | Enemy attack selection with anti-repetition logic |
 
 ## Documentation
 
