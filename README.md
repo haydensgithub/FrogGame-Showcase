@@ -5,6 +5,8 @@ This repository showcases a polished 3D UE4 action game developed over six month
 I served as the project head and lead programmer, handling gameplay code, save systems, sound and animation, and the behavior of anything within the game itself; my team-members handled the ideating and creation process of the 3D models.
 Development was suspended after the team graduated and moved on to new commitments, but some final strides were made to bring the project to a satisfactory stopping point.
 
+![FrogGame hero screenshot](media/screenshots/hero-shot.png)
+
 ## My Role
 My responsibilities included:
 - Project leadership and team coordination
