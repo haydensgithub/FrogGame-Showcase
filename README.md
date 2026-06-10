@@ -48,6 +48,18 @@ Concept art: Mikael Rantanen
 
 ### Screenshots
 
+| Inside Nest | Light Beam |
+|---|---|
+| ![Inside Nest](media/screenshots/InsideNest.PNG) | ![Light Beam](media/screenshots/LightBeam.PNG) |
+
+| Mountain Vista | Spawn Room |
+|---|---|
+| ![Mountain Vista](media/screenshots/MountainVista.PNG) | ![Spawn Room](media/screenshots/SpawnRoom.PNG) |
+
+| Stair Room | Waterfall |
+|---|---|
+| ![Stair Room](media/screenshots/StairRoom.PNG) | ![Waterfall](media/screenshots/Waterfall.PNG) |
+
 ## Technical Focus
 This showcase emphasizes the systems that I personally worked on:
 - Player movement
