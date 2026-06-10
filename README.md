@@ -34,7 +34,17 @@ Concept art: Mikael Rantanen
 
 ## Media
 
-### Gameplay Preview
+### Gameplay Videos
+
+| Movement Showcase | Basic Enemies |
+|---|---|
+| [![Movement Showcase](media/thumbnails/movement-thumbnail.png)](https://www.youtube.com/watch?v=JZGgCKZF4fw&list=PL-hXYicbuTlmJwvJJJdC6uH4UIDDLrYl6&index=4) | [![Basic Enemies](media/thumbnails/basic-enemies-thumbnail.png)](https://www.youtube.com/watch?v=8nkGlCTWbyE&list=PL-hXYicbuTlmJwvJJJdC6uH4UIDDLrYl6&index=2) |
+| Demonstrates player movement, traversal, and general control feel. | Shows standard enemy behavior and moment-to-moment combat. |
+
+| Boss Fight | Level Walkthrough |
+|---|---|
+| [![Boss Fight](media/thumbnails/boss-fight-thumbnail.png)](https://www.youtube.com/watch?v=B6ywcRcT48I&list=PL-hXYicbuTlmJwvJJJdC6uH4UIDDLrYl6&index=3) | [![Level Walkthrough](media/thumbnails/level-walkthrough-thumbnail.png)](https://www.youtube.com/watch?v=edvGOOQ_gW0&list=PL-hXYicbuTlmJwvJJJdC6uH4UIDDLrYl6&index=1) |
+| Shows the boss encounter, attack patterns, and combat pacing. | Walkthrough of the playable vertical slice and environment flow. |
 
 ### Screenshots
 
