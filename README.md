@@ -17,9 +17,9 @@ My responsibilities included:
 - Gameplay "wrappers" (menus and such)
 
 Other team contributors:
-3D modeling and texturing: [Name]
+3D modeling and texturing: Juuso Hirvonen
 
-Concept art: [Name]
+Concept art: Mikael Rantanen
 
 ## Project Highlights
 - Spearheaded a three-person team for six months of independent development
