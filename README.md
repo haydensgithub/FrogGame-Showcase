@@ -80,8 +80,6 @@ The full source code for this project will remain private since the team may one
 | [Minion Spawn Selection](code-samples/enemy-ai/minion-spawn-selection/) | Valid ground detection and safe enemy spawning |
 | [Attack Variety Selection](code-samples/enemy-ai/attack-variety-selection/) | Enemy attack selection with anti-repetition logic |
 
-## Documentation
-
 ## Source Availability
 The complete source code and raw asset files are not present in this repository, since development may one day continue in the future.
 
