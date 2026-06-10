@@ -18,7 +18,6 @@ My responsibilities included:
 - Animation design and implementation
 - Gameplay "wrappers" (menus and such)
 
-Other team contributors:
 3D modeling, texturing and level assembly: Juuso Hirvonen
 
 Concept art: Mikael Rantanen
